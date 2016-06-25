@@ -1,8 +1,12 @@
 ABOUT THE AUTHOR, BSC, UPC AND GEMLEB MEETUP
+BSC와 UPC, GEMLEB 모임(Meetup)과 저자에 대하여
 
 About the Author
+저자에 대하여
 
 Jordi Torres is a professor at UPC Barcelona Tech and a research manager and senior advisor at Barcelona Supercomputing Center with a wide range of research and teaching activities for over 25 years. With a great background as a Computer Engineer, his explorer and entrepreneurial spirit have led him to be a Big-Data engineer able to engage with Data Scientists. Actually, his research focus is gradually moving from supercomputing architectures and runtimes to execution middleware’s for big data workloads, and more recently to platforms for Machine Learning on massive data. Right now, he also has a consultative and strategy role with a visionary task related to next generation technology and its impact. He is both a creative thinker and influential collaborator, and for that he has worn many hats throughout his long career. He acts as an expert for various organizations and companies and mentors entrepreneurs. He is also a writer, gives conferences and collaborates with Spanish mass media. He is passionate about art and visual design. More information about him can be found on his web page http://www.JordiTorres.Barcelona
+
+조르디 토레스(Jordi Torres)는 25년이상 광범위한 분야의 연구와 교육 활동을 해온 UPC 바르셀로나 공대의 연구 매니저이자 바르셀로나 슈퍼컴퓨팅센터의 선임 고문입니다. 뛰어난 컴퓨터공학 배경을 가진 그의 모험정신과 개척정신은 그를 빅데이터 엔지니어로서 데이터 과학을 하게 만들었습니다. 사실 그의 연구 주제는 슈퍼컴퓨터 구조와 미들웨어의 런타임 실행이었으나 점차 빅 데이터 워크로드(workload, 실행 부하)로 바뀌었으며, 최근에는 대규모 데이터를 위한 기계학습 플렛폼이 되었습니다. 현재 그는 다음 세대 기술과 이의 영향에 대한 선지적 전략 자문 역할 또한 수행하고 있습니다. 그는 창의적 사고를 갖은 영향력있는 동료이며 많은 사람들이 그의 경력 생활을 통해 그에게 고마워 하고 있습니다.
 
 About BSC
 
